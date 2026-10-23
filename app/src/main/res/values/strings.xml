@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name is generated from version.properties so the launcher shows the version. -->
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home tabs -->
+    <string name="tab_new">New</string>
+    <string name="tab_left_off">Left off</string>
+    <string name="tab_favourites">Favourites</string>
+    <string name="tab_listened">Listened</string>
+
+    <!-- Player -->
+    <string name="seek_back">Seek back</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="seek_forward">Seek forward</string>
+    <string name="speed">Speed</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="skip_silence">Skip silence</string>
+    <string name="queue">Queue</string>
+    <string name="favourite">Favourite</string>
+
+    <!-- Empty states -->
+    <string name="empty_new">Add a feed or folder to get started</string>
+    <string name="empty_left_off">Start listening to an episode and it will appear here</string>
+    <string name="empty_favourites">Heart an episode to add it here</string>
+    <string name="empty_listened">Episodes you\'ve finished will appear here</string>
+    <string name="empty_library">Add an RSS feed or a local folder</string>
+    <string name="empty_search">No results</string>
+
+    <!-- Actions -->
+    <string name="add_feed">Add RSS feed</string>
+    <string name="add_folder">Add folder</string>
+    <string name="add_youtube">Add YouTube video</string>
+    <string name="youtube_videos">YouTube Videos</string>
+    <string name="youtube_url_hint">YouTube URL (youtube.com/watch?v=…)</string>
+    <string name="fetch_info">Fetch Info</string>
+    <string name="add_to_library">Add to Library</string>
+    <string name="download_to_listen">Download to listen</string>
+    <string name="already_in_library">Already in your library</string>
+    <string name="could_not_fetch">Could not fetch video info — check the URL and try again</string>
+    <string name="refresh">Refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="download">Download</string>
+    <string name="downloading_episode">Downloading: %1$s</string>
+    <string name="download_notification_channel">Downloads</string>
+    <string name="mark_listened">Mark as listened</string>
+    <string name="mark_unlistened">Mark as unlistened</string>
+    <string name="toggle_favourite">Toggle favourite</string>
+
+    <!-- Settings -->
+    <string name="settings_playback">Playback</string>
+    <string name="settings_feeds">Feeds</string>
+    <string name="settings_storage">Storage</string>
+    <string name="settings_backup">Backup &amp; Restore</string>
+    <string name="settings_opml">OPML</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_about">About</string>
+</resources>

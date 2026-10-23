@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Podcast Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30c-4.42,0 -8,3.58 -8,8v16c0,4.42 3.58,8 8,8s8,-3.58 8,-8v-16c0,-4.42 -3.58,-8 -8,-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,46v8c0,7.18 -5.46,13.1 -12.4,13.9v5.1h5.4v3h-14v-3h5.4v-5.1c-6.94,-0.8 -12.4,-6.72 -12.4,-13.9v-8h3v8c0,5.52 4.48,10 10,10s10,-4.48 10,-10v-8h3z" />
+
+    <!-- Outer Decorative Circles / Waves -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,22c17.67,0 32,14.33 32,32s-14.33,32 -32,32s-32,-14.33 -32,-32"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.3" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,14c22.09,0 40,17.91 40,40s-17.91,40 -40,40s-40,-17.91 -40,-40"
+        android:strokeWidth="1"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.1" />
+</vector>
