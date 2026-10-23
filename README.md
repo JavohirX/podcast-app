@@ -1,6 +1,10 @@
 # Podcast
 
+Yet another podcast player app.
+
 A local Android podcast player. Metadata lives in a Room database on the device, and downloads live in app storage.
+
+This one keeps the library on the phone. An RSS feed, a folder of audio files, and a YouTube video are the same kind of episode: the audio is stored on the device, and progress, favourites, and listened state work the same for all three. Playback reads those local files. There is no account and no streaming catalog.
 
 Current version: 1.0.2 (`dev.javohir.podcast`).
 
